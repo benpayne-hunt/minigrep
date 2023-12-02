@@ -1,0 +1,3 @@
+Searching for this
+In file text.txt
+And this is the content on line 2
